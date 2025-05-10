@@ -1,0 +1,52 @@
+{
+  "감정별": {
+    "우울": [
+      "https://www.youtube.com/watch?v=BPbjcLkWtqg",
+      "https://www.youtube.com/watch?v=B8oRH3PBbyg&t=180s"
+    ],
+    "무기력": [
+      "https://www.youtube.com/shorts/QUz6oxbk938",
+      "https://www.youtube.com/shorts/GezbOSLKkv4"
+    ],
+    "자존감 낮음": [
+      "https://www.youtube.com/shorts/Ox2LCPrkyg8",
+      "https://www.youtube.com/shorts/pYf14Y_E8PY"
+    ],
+    "스트레스": [
+      "https://www.youtube.com/shorts/M0AeqeP77cE",
+      "https://www.youtube.com/watch?v=eTX5P6Q-g-A"
+    ],
+    "불안": [
+      "https://www.youtube.com/shorts/kaxt_PF5BFw",
+      "https://www.youtube.com/watch?v=fLNLjBsXidQ"
+    ],
+    "분노": [
+      "https://www.youtube.com/watch?v=PMURzdVWF1A",
+      "https://www.youtube.com/shorts/Z76opoopEhw",
+      "https://www.youtube.com/watch?v=JzPDVLdjLsg"
+    ]
+  },
+  "위험상황별": {
+    "자해": [
+      "https://www.youtube.com/shorts/fhVFZwWOgQc",
+      "https://www.youtube.com/watch?v=B8oRH3PBbyg&t=183s",
+      "https://www.youtube.com/shorts/FRvCnCcyci4"
+    ],
+    "폭력": {
+      "학교폭력": [
+        "https://www.youtube.com/watch?v=Z3t9EDMhaFA",
+        "https://www.youtube.com/watch?v=7enQlD3gEMo",
+        "https://www.youtube.com/watch?v=fmqWk2-_mkU",
+        "https://www.youtube.com/watch?v=T3Z2EeDmsow"
+      ],
+      "가정폭력": [
+        "https://www.youtube.com/watch?v=tFzmEJMuPBg",
+        "https://www.youtube.com/watch?v=cPDgGAL-pgQ"
+      ],
+      "데이트폭력": [
+        "https://www.youtube.com/watch?v=PTcZtAXrQ_4",
+        "https://www.youtube.com/watch?v=WLSe5jRgBZc"
+      ]
+    }
+  }
+}
